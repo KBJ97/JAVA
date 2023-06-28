@@ -33,5 +33,6 @@ public class DateTest {
 		
 		System.out.printf("%d-%d-%d %d:%d:%d", year,month,d,hour,min,sec);
 		
+		
 	}
 }
