@@ -38,7 +38,7 @@ public class StringTest {
 		System.out.println("msg 1번째 문자 : " + c1);
 		System.out.println("msg 7번째 문자 : " + c2);
 				
-		// 무낮열 자르기
+		// 문자열 자르기
 		String sub1 = msg.substring(0,5);
 		String sub2 = msg.substring(6);
 		
