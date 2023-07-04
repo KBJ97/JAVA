@@ -7,6 +7,10 @@ import java.io.IOException;
  * 날짜 : 20234/06/30
  * 이름 : 김병준
  * 내용 : Java File 클래스 실습하기
+ * 
+ * 파일 클래스
+ * - File 클래스는 파일에 대한 경로나 정보를 조회할때 사용하는 클래스
+ * - 별도의 입출력 기능이 없어 스트림을 토한 데이터 입출력
  */
 
 public class FileTest {
